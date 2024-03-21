@@ -9,7 +9,7 @@
 - [Contact](#contact)
 
 ## Overview
-Welcome to the Python 100 days of code repository! This repository documents my journey through the "100 Days of Code Bootcamp" by Angela Yu, where I commit to coding for at least an hour every day for the next 100 days. The purpose of this challenge is to improve my programming skills, explore new technologies, and build exciting projects.
+Welcome to the **Python 100 days of code repository!** This repository documents my journey through the "100 Days of Code Bootcamp" by **Angela Yu**, where I commit to coding for at least an hour every day for the next 100 days. The purpose of this challenge is to improve my programming skills, explore new technologies, and build exciting projects.
 
 ## Progress Tracking
 In this repository, you'll find various files and directories organized day by day. Each day's directory contains code snippets, exercises, or projects completed during the day. Additionally, there might be documentation detailing my learning process and reflections.
