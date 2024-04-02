@@ -27,4 +27,4 @@ for name in dictionary:
         winner = name
         highest = dictionary[name]
 
-print(f"The winner is {winner} with a bif of $ {highest}") 
+print(f"The winner is {winner} with a bid of $ {highest}") 
