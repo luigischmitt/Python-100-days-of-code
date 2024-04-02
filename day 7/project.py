@@ -17,14 +17,16 @@ for i in range (len(chosen_word)):
 
 wrong = False
 lives = 6
+tries = []
 
 while "_" in display:
     if lives == 0:
         print("You lose!")
         break
     guess = str(input("Guess a letter: ")).strip().lower()
-    if guess in display:
-        print("You already chose this letter. Try again.")
+    if guess in tries:
+        print("You already chose this letter. Try another one.")
+    tries.append(guess)
     for i in range (len(chosen_word)):
         if guess in chosen_word[i]:
             display[i] = guess
