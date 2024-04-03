@@ -11,8 +11,9 @@ def is_leap(year):
       return True
   else:
     return False
-  
+
 def days_in_month(year, month):
+  """Take the year and month and see if the year is a leap year or not, then return the days in this year and month"""
   month_days = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31] 
   if is_leap(year) == True:
     month_days[1] += 1
