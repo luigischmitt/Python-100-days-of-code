@@ -41,7 +41,7 @@ While this repository primarily serves as a personal tracking tool, contribution
 
 ## 👨🏻‍🎓 Beginner
 
-- [x] [Day 01](day 01 - Begginer): Working with Variables in Python to Manage Data
+- [x] [Day 01](day 01 - Beginner): Working with Variables in Python to Manage Data
 - [x] [Day 02](day 02): Understanding Data Types and How to Manipulate Strings
 - [x] [Day 03](day 03): Control Flow and Logical Operators
 - [x] [Day 04](day 04): Randomisation and Python Lists
