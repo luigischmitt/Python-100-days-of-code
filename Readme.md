@@ -1,4 +1,8 @@
-# Python-100-days-of-code
+<div align="center">
+<h1> 100 Days of Python Bootcamp by Angela Yu</h1>
+</div>
+
+![Course Logo](logo.png)
 
 ## Table of Contents
 - [Overview](#overview)
