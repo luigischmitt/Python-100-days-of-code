@@ -41,29 +41,29 @@ While this repository primarily serves as a personal tracking tool, contribution
 
 ## 👨🏻‍🎓 Beginner
 
-- [Day 01](day-01---Beginner): Working with Variables in Python to Manage Data
-- [Day 02](day-02): Understanding Data Types and How to Manipulate Strings
-- [Day 03](day-03): Control Flow and Logical Operators
-- [Day 04](day-04): Randomisation and Python Lists
-- [Day 05](day-05): Python Loops
-- [Day 06](day-06): Python Functions & Karel
-- [Day 07](day-07): Hangman
-- [Day 08](day-08): Function Parameters & Caesar Cipher
-- [Day 09](day-09): Dictionaries, Nesting and the Secret Auction
-- [Day 10](day-10): Function Return Values and the Calculator Project
-- [Day 11](day-11): Blackjack Capstone Project
-- [Day 12](day-12): Scope and Namespacing in Python
-- [Day 13](day-13): Debugging: How to Find and Fix Errors in your Code
-- [Day 14](day-14): Higher Lower Game Project
-- [Day 15](day-15): Local Development Environment Setup & the Coffee Machine Project
+- [Day 01](day%2001%20-%20Beginner): Working with Variables in Python to Manage Data
+- [Day 02](day%2002): Understanding Data Types and How to Manipulate Strings
+- [Day 03](day%2003): Control Flow and Logical Operators
+- [Day 04](day%2004): Randomisation and Python Lists
+- [Day 05](day%2005): Python Loops
+- [Day 06](day%2006): Python Functions & Karel
+- [Day 07](day%2007): Hangman
+- [Day 08](day%2008): Function Parameters & Caesar Cipher
+- [Day 09](day%2009): Dictionaries, Nesting and the Secret Auction
+- [Day 10](day%2010): Function Return Values and the Calculator Project
+- [Day 11](day%2011): Blackjack Capstone Project
+- [Day 12](day%2012): Scope and Namespacing in Python
+- [Day 13](day%2013): Debugging: How to Find and Fix Errors in your Code
+- [Day 14](day%2014): Higher Lower Game Project
+- [Day 15](day%2015): Local Development Environment Setup & the Coffee Machine Project
 
 ## 🏋🏻‍♂️ Intermediate
 
-- [Day 16](day-16---Intermediate): Object Oriented Programming (OOP)
-- [Day 17](day-17): The Quiz Project & the Benefits of OOP
-- [Day 18](day-18): Turtle Graphics and GUIs
-- [Day 19](day-19): Instances, State and Higher Order Functions
-- [Day 20](day-20): Build the Snake Game Part 1: Animation & Coordinates
+- [Day 16](day%2016%20-%20Intermediate): Object Oriented Programming (OOP)
+- [Day 17](day%2017): The Quiz Project & the Benefits of OOP
+- [Day 18](day%2018): Turtle Graphics and GUIs
+- [Day 19](day%2019): Instances, State and Higher Order Functions
+- [Day 20](day%2020): Build the Snake Game Part 1: Animation & Coordinates
 - [Day 21](day21): Build the Snake Game Part 2: Inheritance & List Slicing
 - [Day 22](day22): Build Pong: The Famous Arcade Game
 - [Day 23](day23): The Turtle Crossing Capstone Project
