@@ -1,0 +1,7 @@
+# LESSON 28 DAY 26 - SQUARING NUMBERS
+
+numbers = [1, 1, 2, 3, 5, 8, 13, 21, 34, 55]
+
+squared_numbers = [n*n for n in numbers]
+
+print(squared_numbers)
