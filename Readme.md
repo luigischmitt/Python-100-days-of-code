@@ -2,9 +2,7 @@
 <h1> 100 Days of Python Bootcamp by Angela Yu</h1>
 </div>
 
-![Course Logo](logo.png)
-
-## Table of Contents 📋
+## Table of Contents 
 - [Overview](#overview)
 - [Progress Tracking](#progress-tracking)
 - [How to Use](#how-to-use)
