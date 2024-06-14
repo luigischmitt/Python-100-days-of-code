@@ -3,8 +3,8 @@ import requests
 import spotipy
 from spotipy.oauth2 import SpotifyOAuth
 
-CLIENT_ID = ""
-CLIENT_SECRET = ""
+CLIENT_ID = "shh"
+CLIENT_SECRET = "shh"
 URL = "https://www.billboard.com/charts/hot-100/"
 
 date = input("Which day would you like to travel to? Type the date in this format YYYY-MM-DD: ")
